@@ -35,8 +35,7 @@ Express Level 2 Practice is a web application built using Node.js and Express. T
 
 ### Clone the repository:
     bash
-    git clone https://github.com/88chinu/expressLevel2Practice.git
-    cd expressLevel2Practice
+    git clone https://github.com/alibha04/expressAPIl2.git
 ### Install the dependencies:
     bash
     npm install
@@ -65,7 +64,7 @@ Contributions are welcome! Please open an issue or submit a pull request. Make s
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-For questions or feedback, please reach out to [chinmaya.pa42@gmail.com].
+For questions or feedback, please reach out to [alibha.pra@gmail.com].
 
 Feel free to modify this template to better fit your project's needs!
 
